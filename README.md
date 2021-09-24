@@ -2,12 +2,14 @@
 MatchboxNet + some robot action
 
 ## setup 
-first connect to the robot:
+* first connect to the robot:
 1: make a new ethernet connection with manual settings:
 ipv4: address: 130.230.37.117, netmask: 255.255.255.0
 2: connect to the arm and start the controller: 
 in browser go to the web interface with the ip: 130.230.37.117 and turn on the arm
 
+
+* installation:
 1. mkdir -p catkin_ws/src
 2. cd catkin_ws/src
 3. git clone ....
