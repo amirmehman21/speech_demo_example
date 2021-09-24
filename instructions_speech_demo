@@ -1,7 +1,3 @@
-# speech_demo_example
-MatchboxNet + some robot action
-
-## setup 
 first connect to the robot:
 1: make a new ethernet connection with manual settings:
 ipv4: address: 130.230.37.117, netmask: 255.255.255.0
