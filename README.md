@@ -18,7 +18,7 @@ in browser go to the web interface with the ip: 130.230.37.117 and turn on the a
 https://frankaemika.github.io/docs/installation_linux.html#building-from-source
 6. sudo apt-get install ros-melodic-sound-play
 7. cd ~/catkin_ws
-8. catkin_make -DCMAKE_BUILD_TYPE=Release -DFranka_DIR:PATH=/home/amir/libfranka/build
+8. catkin_make -DCMAKE_BUILD_TYPE=Release -DFranka_DIR:PATH=/path/to/libfranka/folder/build
 9. source ~/catkin_ws/devel/setup.bash
 10. run demo: roslaunch roslaunch audio_demo start_demo.launch
 
