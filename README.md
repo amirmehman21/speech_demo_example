@@ -1,10 +1,12 @@
 # speech_demo_example
 MatchboxNet + some robot action
 
+#Robot ip is: 130.230.37.115
+
 ## setup 
 * first connect to the robot:
 1: make a new ethernet connection with manual settings:
-ipv4: address: 130.230.37.117, netmask: 255.255.255.0
+ipv4: address: 130.230.37.xxx, netmask: 255.255.255.0 (change xxx to something other than 115)
 2: connect to the arm and start the controller: 
 in browser go to the web interface with the ip: 130.230.37.117 and turn on the arm
 
